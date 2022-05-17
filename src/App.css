@@ -5,3 +5,34 @@
   font-family: 'Koulen', cursive;
 
 }
+
+.card-box {
+  display: flex;
+  padding: 20px;
+  border-radius: 3px;
+  margin-bottom: 30px;
+  background-color: #fff;
+}
+
+.thumb-lg {
+  height: 88px;
+  width: 88px;
+}
+.img-thumbnail {
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+.text-muted {
+  color: #896ceb78 !important;
+}
+h4 {
+  line-height: 22px;
+  font-size: 18px;
+}
